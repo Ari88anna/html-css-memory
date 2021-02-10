@@ -8,10 +8,26 @@
 
 /* common parts */
 body{
-    font-family: 'Nerko One', cursive;
+    font-family: 'Nerko One', Arial, Helvetica, sans-serif;
+    background-color: #B0E0E6;
 }  
 /* fine common parts */
 
 /* Memory game container */
+
+/* Header */
+.container{
+    width: 1024px;
+    /* background-color: white; */
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    color:white;
+    font-size: 70px;
+}
+/* fine header */
+
 
 /* fine Memory game container */
