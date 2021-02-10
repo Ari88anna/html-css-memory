@@ -18,16 +18,27 @@ body{
 /* Header */
 .container{
     width: 1024px;
-    /* background-color: white; */
+    background-color: white;
     margin: auto;
 }
 
 h1{
     text-align: center;
-    color:white;
+    /* color:white; */
     font-size: 70px;
 }
 /* fine header */
+
+/* main */
+
+.card{
+    width:20%;  
+    height:200px;
+    background-color:peru;
+    display: inline-block;
+}
+
+/* fine main */
 
 
 /* fine Memory game container */
