@@ -30,8 +30,6 @@ h1{
 
 /* main */
 
-
-
 .cards{
     text-align: center;
 
@@ -79,6 +77,22 @@ h1{
 .card:hover h2{
     display: block;
 }
+
+/* second row of cards */
+.card.turned{
+    background-image: none;
+}
+.card.turned img{
+    display: block;
+}
+
+.card.turned h2{
+    display:block;
+    color:#FF00FF;
+}
+/* fine second row of cards */
+
+
 
 /* fine main */
 
