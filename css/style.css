@@ -17,8 +17,7 @@ body{
 
 /* Header */
 .container{
-    width: 1024px;
-    background-color: white;
+    width: 1024px;    
     margin: auto;
 }
 
@@ -47,8 +46,14 @@ h1{
     position: relative; 
     background-image:url("../img/pattern.png"); 
     background-size: contain;
+    
 }
-
+.card img{
+    display:none;
+}
+.card h2{
+    display:none;
+}
 
 img{
     display: block;
@@ -61,6 +66,7 @@ h2{
     left:0;
     right:0;
     font-size: 40px;
+    color:#FF4500;
 }
 
 /* fine main */
