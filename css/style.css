@@ -31,11 +31,32 @@ h1{
 
 /* main */
 
+
+
+.cards{
+    text-align: center;
+
+}
+
 .card{
     width:20%;  
-    height:200px;
+    height:250px;
     background-color:peru;
-    display: inline-block;
+    display: inline-block; 
+    position: relative;   
+}
+
+img{
+    display: block;
+    width:100%;
+}
+
+h2{
+    position:absolute;
+    bottom:10px;
+    left:0;
+    right:0;
+    font-size: 40px;
 }
 
 /* fine main */
