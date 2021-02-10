@@ -1,0 +1,17 @@
+/* reset */
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+/* fine reset */
+
+/* common parts */
+body{
+    font-family: 'Nerko One', cursive;
+}  
+/* fine common parts */
+
+/* Memory game container */
+
+/* fine Memory game container */
